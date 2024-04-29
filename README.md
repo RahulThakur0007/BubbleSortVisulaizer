@@ -22,4 +22,4 @@ Follow the steps below to run the app locally:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sorting-visualizer.git
+   git clone https://github.com/RahulThakur0007/BubbleSortVisualizer.git
